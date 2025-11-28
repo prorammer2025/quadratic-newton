@@ -21,5 +21,5 @@ A Python Tkinter application that numerically approximates the **real roots of a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/programmer2025/quadratic-newton.git
+   git clone https://github.com/prorammer2025/quadratic-newton.git
    cd quadratic-newton
